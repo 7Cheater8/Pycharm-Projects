@@ -1,0 +1,1 @@
+#Escreva um programa que escreva o salario de um funcionario e caucule o valor do seu aumento para salarios superiores a 1250R$ caucule um aumento de 10% para os inferiores ou iguais o aumento é de 15%

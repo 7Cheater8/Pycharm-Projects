@@ -1,0 +1,1 @@
+#faça um prgrama que leia 3 numeros e mostre qual é o maior e qual é o menor
